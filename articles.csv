@@ -1,0 +1,11 @@
+ID,UUID,title,slug,province,city,active,User_ID
+1,a1b2c3d4-1111,Wisata Pantai Kuta,wisata-pantai-kuta,Bali,Denpasar,True,u1e2f3g4-1111
+2,a1b2c3d4-2222,Kuliner Gudeg Jogja,kuliner-gudeg-jogja,DI Yogyakarta,Yogyakarta,True,u1e2f3g4-2222
+3,a1b2c3d4-3333,Mendaki Gunung Bromo,mendaki-gunung-bromo,Jawa Timur,Probolinggo,True,u1e2f3g4-1111
+4,a1b2c3d4-4444,Sejarah Candi Borobudur,sejarah-candi-borobudur,Jawa Tengah,Magelang,True,u1e2f3g4-3333
+5,a1b2c3d4-5555,Tips Belanja di Malioboro,tips-belanja-malioboro,DI Yogyakarta,Yogyakarta,True,u1e2f3g4-2222
+6,a1b2c3d4-6666,Mengenal Tari Kecak,mengenal-tari-kecak,Bali,Denpasar,True,u1e2f3g4-4444
+7,a1b2c3d4-7777,Keindahan Raja Ampat,keindahan-raja-ampat,Papua Barat,Raja Ampat,True,u1e2f3g4-3333
+8,a1b2c3d4-8888,Menjelajah Kawah Ijen,menjelajah-kawah-ijen,Jawa Timur,Banyuwangi,True,u1e2f3g4-1111
+9,a1b2c3d4-9999,Festival Cap Go Meh,festival-cap-go-meh,Kalimantan Barat,Singkawang,True,u1e2f3g4-5555
+10,a1b2c3d4-0000,Tradisi Ngaben di Bali,tradisi-ngaben-bali,Bali,Denpasar,True,u1e2f3g4-4444
